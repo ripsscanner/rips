@@ -17,4 +17,4 @@ A static source code analyser for vulnerabilities in PHP scripts
 Follow the instructions on the main page.
 
 ## Development
-RIPS 0.5 development is abandoned. A complete rewrite is in development. Follow @FluxReiners for updates. 
+RIPS 0.5 development is abandoned due to its fundamental limitations. A complete new version is available at https://www.ripstech.com 
